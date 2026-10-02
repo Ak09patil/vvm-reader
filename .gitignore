@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/synth/
+data/real_print/images/
+data/real_web/images/
+results/crops/
+data/print_sheet/print_sheet_labels.csv

@@ -1,0 +1,24 @@
+{
+  "deltas": {
+    "classical": 0.3,
+    "cnn": 0.015,
+    "hybrid": 0.015
+  },
+  "target_unsafe_rate": 0.01,
+  "sets": [
+    "val",
+    "benchmark",
+    "style_in",
+    "style_out"
+  ],
+  "models": {
+    "cnn": {
+      "params": 217589,
+      "cpu_ms_per_crop": 0.612
+    },
+    "hybrid": {
+      "params": 217725,
+      "cpu_ms_per_crop": 0.606
+    }
+  }
+}
