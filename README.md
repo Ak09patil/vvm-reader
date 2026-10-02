@@ -187,8 +187,8 @@ This estimates worst-case heat exposure, assuming the vial sat at ambient air te
 
 ## Team
 
-- **Akanksha** — pipeline, experiments, evaluation
-- **[Partner name]** — paper, literature review, real-image data, annotation
+- **Akanksha Patil** — pipeline, experiments, evaluation
+- **Sweety Jain** — paper, literature review, real-image data, annotation
 
 NMIMS MPSTME Hyderabad, B.Tech Computer Engineering.
 
