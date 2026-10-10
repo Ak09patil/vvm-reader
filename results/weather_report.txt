@@ -1,0 +1,40 @@
+Districts: 738   population (Census 2011): 1239 M
+
+Population-weighted national median: outreach sessions until a vial reaches its discard point
+vvm_type  VVM2   VVM7  VVM14  VVM30
+Jan       44.4  204.1  408.2  875.5
+Feb       24.2  103.2  206.5  442.8
+Mar       12.2   47.7   95.3  204.3
+Apr        5.6   19.7   39.4   84.4
+May        5.2   18.3   36.5   78.3
+Jun        6.7   24.4   48.7  104.4
+Jul       11.1   43.0   86.1  184.5
+Aug       12.7   50.2  100.5  215.4
+Sep       12.5   49.1   98.3  210.7
+Oct       12.9   51.0  102.1  218.9
+Nov       18.7   77.5  155.0  332.3
+Dec       33.4  148.0  295.9  634.6
+
+VVM2 worst-month sessions to discard, population-weighted quantiles: p10=3.0  median=4.3  p90=8.0
+VVM7 worst-month sessions to discard, population-weighted quantiles: p10=9.7  median=14.8  p90=29.6
+VVM14 worst-month sessions to discard, population-weighted quantiles: p10=19.4  median=29.6  p90=59.2
+VVM30 worst-month sessions to discard, population-weighted quantiles: p10=41.5  median=63.3  p90=127.0
+
+VVM2, 72 h cold-chain failure: share of days it would reach discard
+  population-weighted median 0.088, p90 0.154, max 0.239
+  population in districts where this exceeds 5% of days: 62.4%; 10% of days: 43.7%
+  VVM7 72 h failure ever reaches discard: 0.0% of population
+
+10 highest-risk districts (VVM2, fewest sessions to discard in worst month):
+  Jalaun, Uttar Pradesh: 2.4 sessions (worst month Jun), max temp 48.2 C, 72h-failure share 0.159
+  Hamirpur, Uttar Pradesh: 2.4 sessions (worst month Jun), max temp 48.5 C, 72h-failure share 0.176
+  Banda, Uttar Pradesh: 2.4 sessions (worst month Jun), max temp 48.7 C, 72h-failure share 0.187
+  Bikaner, Rajasthan: 2.5 sessions (worst month May), max temp 47.9 C, 72h-failure share 0.239
+  Auraiya, Uttar Pradesh: 2.5 sessions (worst month Jun), max temp 48.2 C, 72h-failure share 0.151
+  Kanpur Nagar, Uttar Pradesh: 2.6 sessions (worst month Jun), max temp 47.4 C, 72h-failure share 0.143
+  Chitrakoot, Uttar Pradesh: 2.6 sessions (worst month Jun), max temp 48.3 C, 72h-failure share 0.176
+  Baran, Rajasthan: 2.6 sessions (worst month May), max temp 47.6 C, 72h-failure share 0.132
+  Churu, Rajasthan: 2.6 sessions (worst month May), max temp 46.7 C, 72h-failure share 0.157
+  Bhind, Madhya Pradesh: 2.6 sessions (worst month Jun), max temp 47.8 C, 72h-failure share 0.148
+
+By state (population-weighted medians) -> results/weather_by_state.csv

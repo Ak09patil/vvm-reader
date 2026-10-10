@@ -1,0 +1,71 @@
+gkey,status,lat,lon,source
+Arunachal Pradesh|East Kameng,ok,27.557781,93.0753012,osm_boundary
+Arunachal Pradesh|East Siang,ok,28.0742219,95.4178149,osm_boundary
+Arunachal Pradesh|Kamle,ok,27.7312325,94.0964663,osm_boundary
+Arunachal Pradesh|Kra Daadi,ok,27.9635418,93.7665654,osm_boundary
+Arunachal Pradesh|Lepa Rada,ok,27.9211266,94.7409362,osm_boundary
+Arunachal Pradesh|Longding,ok,26.8794546,95.3155652,osm_boundary
+Arunachal Pradesh|Lower Siang,ok,27.8006983,94.5650233,osm_boundary
+Arunachal Pradesh|Pakke-Kessang,ok,27.1582856,93.1561502,osm_boundary
+Arunachal Pradesh|Shi Yomi,ok,28.6851663,94.2367824,osm_boundary
+Arunachal Pradesh|West Kameng,ok,27.2986936,92.4741211,osm_boundary
+Assam|Bishwanath,ok,26.7283548,93.1495466,osm_boundary
+Assam|Chirang,ok,26.6464231,90.624157,osm_boundary
+Bihar|Banka,ok,24.8328273,86.8161114,osm_boundary
+Bihar|Bhojpur,ok,25.4501182,84.5635193,osm_boundary
+Bihar|Gopalganj,ok,26.4211166,84.3739133,osm_boundary
+Bihar|Vaishali,ok,25.7491703,85.3972164,osm_boundary
+Bihar|West Champaran,ok,27.0518367,84.3351209,osm_boundary
+Chhattisgarh|Bilaspur,ok,22.1638486,82.1365923,osm_boundary
+Gujarat|Chhota Udepur,ok,22.3037389,74.012658,osm_boundary
+Gujarat|Dang,ok,20.7881718,73.7092033,osm_boundary
+Gujarat|Gir Somnath,ok,20.9298181,70.7627578,osm_boundary
+Himachal Pradesh|Bilaspur,ok,31.3380959,76.7611631,osm_boundary
+Himachal Pradesh|Hamirpur,ok,31.6539866,76.5403633,osm_boundary
+Himachal Pradesh|Kullu,ok,31.8778325,77.4495659,osm_boundary
+Himachal Pradesh|Mandi,ok,31.6516617,77.0092542,osm_boundary
+Karnataka|Hassan,ok,13.0301852,76.1744968,osm_boundary
+Madhya Pradesh|Khandwa (East Nimar),ok,21.9769779,76.5675344,osm_boundary
+Madhya Pradesh|Khargone (West Nimar),ok,21.9544729,75.7521248,osm_boundary
+Madhya Pradesh|Nagda,ok,22.9054334,76.0571362,osm_boundary
+Madhya Pradesh|Niwari,ok,25.3123152,78.667564,osm_boundary
+Manipur|Noney,ok,24.778669,93.5090836,osm_boundary
+Manipur|Pherzawl,ok,24.3707492,93.2523548,osm_boundary
+Manipur|Senapati,ok,25.3933697,94.1501773,osm_boundary
+Meghalaya|East Jaintia Hills,ok,25.2515761,92.4840501,osm_boundary
+Meghalaya|South West Garo Hills,ok,25.444631,89.9969655,osm_boundary
+Meghalaya|South West Khasi Hills,ok,25.3307221,91.3217388,osm_boundary
+Odisha|Boudh (Bauda),ok,20.6407463,83.9969704,osm_boundary
+Odisha|Bargarh (Baragarh),ok,21.2319922,83.5652737,osm_boundary
+Odisha|Debagarh (Deogarh),ok,21.4477962,84.7174204,osm_boundary
+Odisha|Kendujhar (Keonjhar),ok,21.5892323,85.6687841,osm_boundary
+Odisha|Subarnapur (Sonepur),ok,20.8535784,83.8529159,osm_boundary
+Punjab|Mansa,ok,29.8764133,75.4889564,osm_boundary
+Rajasthan|Jhunjhunu,ok,28.0798944,75.5424211,osm_boundary
+Rajasthan|Pratapgarh,ok,24.0232221,74.6250275,osm_boundary
+Telangana|Komaram Bheem,ok,19.3338189,79.4219793,osm_boundary
+Telangana|Bhadradri Kothagudem,ok,17.7166633,80.5712609,osm_boundary
+Telangana|Jayashankar Bhupalpally,nomatch,,,
+Telangana|Jogulamba Gadwal,ok,16.0999202,77.7341584,osm_boundary
+Telangana|Medchal-Malkajgiri,ok,17.5349835,78.5246387,osm_boundary
+Telangana|Rajanna Sircilla,ok,18.452116,78.7645584,osm_boundary
+Telangana|Warangal Rural,nomatch,,,
+Telangana|Yadadri Bhuvanagiri,ok,17.4281967,79.090491,osm_boundary
+Tripura|Unokoti,nomatch,,,
+Uttar Pradesh|Ambedkar Nagar,ok,26.4045941,82.6065154,osm_boundary
+Uttar Pradesh|Banda,ok,25.4438537,80.5595237,osm_boundary
+Uttar Pradesh|Fatehpur,ok,25.8348023,80.9154547,osm_boundary
+Uttar Pradesh|Hamirpur,ok,25.75,80.0,osm_boundary
+Uttar Pradesh|Lalitpur,ok,24.6999688,78.51862,osm_boundary
+Uttar Pradesh|Maharajganj,ok,26.4710847,81.1807046,osm_boundary
+Uttar Pradesh|Pratapgarh,ok,25.75,81.75,osm_boundary
+Uttarakhand|Pauri Garhwal,ok,29.8473168,78.7070479,osm_boundary
+West Bengal|Paschim Bardhaman,ok,23.6461884,87.1587969,osm_boundary
+West Bengal|Purba Bardhaman,ok,23.388517,87.9068097,osm_boundary
+West Bengal|Birbhum,ok,24.0621532,87.6982823,osm_boundary
+West Bengal|Hooghly,ok,22.9099402,88.0120825,osm_boundary
+West Bengal|Paschim Medinipur,ok,22.3600119,87.4111505,osm_boundary
+West Bengal|Purba Medinipur,ok,22.0648451,87.8377586,osm_boundary
+Dadra and Nagar Haveli and Daman and Diu|Daman,ok,20.4200049,72.8634214,osm_boundary
+Jammu and Kashmir|Poonch,ok,33.702939,74.2499015,osm_boundary
+Puducherry|Mahé,ok,11.7021978,75.5364701,osm_boundary

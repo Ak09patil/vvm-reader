@@ -1,0 +1,5 @@
+districts analysed: 738  (population covered, Census 2011: 1239 M)
+VVM2: population share in districts where <=10 outreach sessions reach discard (worst month): 96.0%; where a 72 h failure can reach discard on some day: 83.7%
+VVM7: population share in districts where <=10 outreach sessions reach discard (worst month): 13.8%; where a 72 h failure can reach discard on some day: 0.0%
+VVM14: population share in districts where <=10 outreach sessions reach discard (worst month): 0.0%; where a 72 h failure can reach discard on some day: 0.0%
+VVM30: population share in districts where <=10 outreach sessions reach discard (worst month): 0.0%; where a 72 h failure can reach discard on some day: 0.0%

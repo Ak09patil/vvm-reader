@@ -1,0 +1,7 @@
+reader,n,stage_acc,decision_acc,ci_lo,ci_hi,unsafe,false_discard,acc_threshold_vvm,n_threshold_vvm,acc_near_threshold_0.70-0.80,mean_seconds
+human:EA,100,0.5400,0.7500,0.6570,0.8245,8,17,1.0000,5,0.6000,4.5620
+human:TS,100,0.6600,0.9100,0.8377,0.9519,0,9,1.0000,5,0.6400,4.2350
+model:who_rule,100,,0.9700,0.9155,0.9897,3,0,0.4000,5,0.8800,
+model:classical,100,0.7400,0.9700,0.9155,0.9897,3,0,0.4000,5,0.8800,
+model:cnn,100,0.8400,0.9400,0.8752,0.9722,6,0,0.0000,5,0.7600,
+model:hybrid,100,0.8400,0.9400,0.8752,0.9722,6,0,0.0000,5,0.7600,

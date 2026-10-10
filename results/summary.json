@@ -9,16 +9,17 @@
     "val",
     "benchmark",
     "style_in",
-    "style_out"
+    "style_out",
+    "real_print"
   ],
   "models": {
     "cnn": {
       "params": 217589,
-      "cpu_ms_per_crop": 0.612
+      "cpu_ms_per_crop": 1.026
     },
     "hybrid": {
       "params": 217725,
-      "cpu_ms_per_crop": 0.606
+      "cpu_ms_per_crop": 1.023
     }
   }
 }

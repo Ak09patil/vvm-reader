@@ -7,3 +7,10 @@ data/real_print/images/
 data/real_web/images/
 results/crops/
 data/print_sheet/print_sheet_labels.csv
+data/weather_cache/
+data/real_print/images/
+data/real_print/raw/
+data/human_reading/key.csv
+data/human_reading/reader.html
+data/real_print/
+data/human_reading/
