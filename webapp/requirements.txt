@@ -1,0 +1,11 @@
+# For the online version (Streamlit Community Cloud). CPU-only PyTorch keeps the install small.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+numpy
+opencv-python-headless
+pillow
+pandas
+scikit-learn==1.9.1
+streamlit>=1.50
+altair
+requests
